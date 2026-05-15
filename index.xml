@@ -9,6 +9,36 @@
     <lastBuildDate>Fri, 15 May 2026 12:00:00 +0800</lastBuildDate>
     <atom:link href="https://blog.ankang.uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>0成本搭建个人博客：Hermes Agent &#43; Hugo &#43; GitHub Pages &#43; Cloudflare 完整教程</title>
+      <link>https://blog.ankang.uk/posts/hermes-blog-tutorial/</link>
+      <pubDate>Fri, 15 May 2026 12:00:00 +0800</pubDate>
+      <guid>https://blog.ankang.uk/posts/hermes-blog-tutorial/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;本文完全由 &lt;strong&gt;Hermes Agent&lt;/strong&gt;（AI 助手）在对话中写作并自动部署，全程无需手动操作服务器。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;你是不是也想拥有一个自己的博客，但不想花钱买云服务器？&lt;/p&gt;
+&lt;p&gt;今天教你&lt;strong&gt;零成本&lt;/strong&gt;搭建一个个人博客，只需要：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一个 &lt;strong&gt;GitHub&lt;/strong&gt; 账号（免费）&lt;/li&gt;
+&lt;li&gt;一个 &lt;strong&gt;Cloudflare&lt;/strong&gt; 账号（免费，还能管理域名）&lt;/li&gt;
+&lt;li&gt;一个域名（我用的 &lt;code&gt;ankang.uk&lt;/code&gt;，一年几十块，也可以先用 GitHub 提供的免费子域名）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;架构非常简单：&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;你的电脑 (写文章) → Hugo (生成静态页) → GitHub Pages (托管) → Cloudflare (DNS + CDN) → 读者
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;全程不需要云服务器！不需要 Nginx！不需要维护！&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;一总览hermes-agent-是什么角色&#34;&gt;一、总览：Hermes Agent 是什么角色？&lt;/h2&gt;
+&lt;p&gt;整个搭建过程，我都是通过 &lt;strong&gt;Hermes Agent&lt;/strong&gt; 在微信上对话完成的。&lt;/p&gt;
+&lt;p&gt;Hermes Agent 是一个 AI 助手，可以直接在&lt;strong&gt;终端执行命令&lt;/strong&gt;、&lt;strong&gt;读写文件&lt;/strong&gt;、&lt;strong&gt;搜索信息&lt;/strong&gt;、&lt;strong&gt;操作 Git&lt;/strong&gt;、&lt;strong&gt;调用各种 API&lt;/strong&gt;——也就是说，你只需要说话，它就能帮你把博客从零搭到上线。&lt;/p&gt;
+&lt;p&gt;它跑在 &lt;strong&gt;WSL（Windows Subsystem for Linux）&lt;/strong&gt; 里，但无论你用什么系统（Mac/Linux/Windows），只要装好 Hugo 就能跟着做。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;二准备工作&#34;&gt;二、准备工作&lt;/h2&gt;
+&lt;h3 id=&#34;1-github-仓库&#34;&gt;1. GitHub 仓库&lt;/h3&gt;
+&lt;p&gt;登录 GitHub，创建一个仓库，命名为 &lt;code&gt;你的用户名.github.io&lt;/code&gt;（比如我的用户名是 &lt;code&gt;moonpigcater&lt;/code&gt;，仓库就是 &lt;code&gt;moonpigcater.github.io&lt;/code&gt;）。&lt;/p&gt;
+&lt;p&gt;这个命名是 GitHub Pages 的约定，它会自动将这个仓库发布为网站。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>欢迎来到 AnKang 的博客</title>
       <link>https://blog.ankang.uk/posts/welcome/</link>
       <pubDate>Fri, 15 May 2026 12:00:00 +0800</pubDate>

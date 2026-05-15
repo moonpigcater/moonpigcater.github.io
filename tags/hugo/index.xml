@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on AnKang&#39;s Blog</title>
-    <link>https://blog.ankang.uk/posts/</link>
-    <description>Recent content in Posts on AnKang&#39;s Blog</description>
+    <title>Hugo on AnKang&#39;s Blog</title>
+    <link>https://blog.ankang.uk/tags/hugo/</link>
+    <description>Recent content in Hugo on AnKang&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 15 May 2026 12:00:00 +0800</lastBuildDate>
-    <atom:link href="https://blog.ankang.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.ankang.uk/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0成本搭建个人博客：Hermes Agent &#43; Hugo &#43; GitHub Pages &#43; Cloudflare 完整教程</title>
       <link>https://blog.ankang.uk/posts/hermes-blog-tutorial/</link>
@@ -37,24 +37,6 @@
 &lt;h3 id=&#34;1-github-仓库&#34;&gt;1. GitHub 仓库&lt;/h3&gt;
 &lt;p&gt;登录 GitHub，创建一个仓库，命名为 &lt;code&gt;你的用户名.github.io&lt;/code&gt;（比如我的用户名是 &lt;code&gt;moonpigcater&lt;/code&gt;，仓库就是 &lt;code&gt;moonpigcater.github.io&lt;/code&gt;）。&lt;/p&gt;
 &lt;p&gt;这个命名是 GitHub Pages 的约定，它会自动将这个仓库发布为网站。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>欢迎来到 AnKang 的博客</title>
-      <link>https://blog.ankang.uk/posts/welcome/</link>
-      <pubDate>Fri, 15 May 2026 12:00:00 +0800</pubDate>
-      <guid>https://blog.ankang.uk/posts/welcome/</guid>
-      <description>&lt;p&gt;这是我的第一篇博客文章！&lt;/p&gt;
-&lt;p&gt;这个博客是用 &lt;strong&gt;Hugo&lt;/strong&gt; 静态博客框架搭建的，托管在 &lt;strong&gt;GitHub Pages&lt;/strong&gt; 上，绑定了自定义域名 &lt;strong&gt;ankang.uk&lt;/strong&gt;。&lt;/p&gt;
-&lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;
-&lt;p&gt;一个喜欢折腾技术的开发者，喜欢研究各种有趣的东西。&lt;/p&gt;
-&lt;h2 id=&#34;博客规划&#34;&gt;博客规划&lt;/h2&gt;
-&lt;p&gt;这里会分享：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;💻 技术干货与开发经验&lt;/li&gt;
-&lt;li&gt;🌐 网络与服务器搭建心得&lt;/li&gt;
-&lt;li&gt;📝 生活随笔与思考&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;欢迎常来逛逛！&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

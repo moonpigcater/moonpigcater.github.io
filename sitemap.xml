@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.ankang.uk/posts/hermes-blog-tutorial/</loc>
+    <lastmod>2026-05-15T12:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://blog.ankang.uk/</loc>
     <lastmod>2026-05-15T12:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.ankang.uk/categories/</loc>
+    <lastmod>2026-05-15T12:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.ankang.uk/tags/cloudflare/</loc>
+    <lastmod>2026-05-15T12:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.ankang.uk/tags/github-pages/</loc>
+    <lastmod>2026-05-15T12:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.ankang.uk/tags/hugo/</loc>
     <lastmod>2026-05-15T12:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.ankang.uk/posts/</loc>
@@ -14,7 +26,16 @@
     <loc>https://blog.ankang.uk/tags/</loc>
     <lastmod>2026-05-15T12:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://blog.ankang.uk/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2026-05-15T12:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://blog.ankang.uk/search/</loc>
+    <lastmod>2026-05-15T12:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.ankang.uk/categories/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2026-05-15T12:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.ankang.uk/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2026-05-15T12:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.ankang.uk/posts/welcome/</loc>
