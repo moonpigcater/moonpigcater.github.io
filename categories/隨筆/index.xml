@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>隨筆 on AnKang&#39;s Blog</title>
+    <link>https://ankang.uk/categories/%E9%9A%A8%E7%AD%86/</link>
+    <description>Recent content in 隨筆 on AnKang&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Fri, 15 May 2026 12:00:00 +0800</lastBuildDate>
+    <atom:link href="https://ankang.uk/categories/%E9%9A%A8%E7%AD%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>歡迎來到 AnKang 的博客</title>
+      <link>https://ankang.uk/posts/welcome/</link>
+      <pubDate>Fri, 15 May 2026 12:00:00 +0800</pubDate>
+      <guid>https://ankang.uk/posts/welcome/</guid>
+      <description>&lt;p&gt;這是我的第一篇博客文章！&lt;/p&gt;
+&lt;p&gt;這個博客是用 &lt;strong&gt;Hugo&lt;/strong&gt; 靜態博客框架搭建的，託管在 &lt;strong&gt;GitHub Pages&lt;/strong&gt; 上，綁定了自定義域名 &lt;strong&gt;ankang.uk&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;關於我&#34;&gt;關於我&lt;/h2&gt;
+&lt;p&gt;一個喜歡折騰技術的開發者，喜歡研究各種有趣的東西。&lt;/p&gt;
+&lt;h2 id=&#34;博客規劃&#34;&gt;博客規劃&lt;/h2&gt;
+&lt;p&gt;這裡會分享：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 技術乾貨與開發經驗&lt;/li&gt;
+&lt;li&gt;🌐 網絡與服務器搭建心得&lt;/li&gt;
+&lt;li&gt;📝 生活隨筆與思考&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;歡迎常來逛逛！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
