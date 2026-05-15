@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ankang.uk/sitemap.xml
+Sitemap: https://blog.ankang.uk/sitemap.xml
